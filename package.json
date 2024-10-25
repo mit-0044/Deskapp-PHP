@@ -2,4 +2,7 @@
   "dependencies": {
     "sweetalert2": "^11.7.12"
   }
+  "scripts": {
+    "build": "npm run build"
+  }
 }
